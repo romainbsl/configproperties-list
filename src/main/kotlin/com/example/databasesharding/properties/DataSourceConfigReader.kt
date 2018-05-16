@@ -22,6 +22,4 @@ class DataSourceConfigReader {
   override fun toString(): String {
     return "DataSourceConfigReader(test='$test', base=$base, override=$override)"
   }
-
-
 }
